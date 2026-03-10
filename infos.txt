@@ -1,0 +1,16 @@
+# Meu Perfil Dev
+
+## Informações Pessoais
+
+Nome: Isabely Duque Fernandes
+Cidade: Suzano - SP
+
+## Sobre mim
+
+Sou estudante de Engenharia de Software e atualmente trabalho na área de tecnologia.
+
+## Tecnologias que estou aprendendo
+* Git e GitHub
+* JavaScript
+* Python
+* Power BI
