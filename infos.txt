@@ -14,3 +14,17 @@ Sou estudante de Engenharia de Software e atualmente trabalho na área de tecnol
 * JavaScript
 * Python
 * Power BI
+
+## Minhas Habilidades
+- Versionamento de código com Git e GitHub
+- Análise e visualização de dados com Power BI
+- Conhecimento básico em Python
+- Lógica de programação
+- Modelagem de dados
+- Organização e análise de informações
+- Trabalho em equipe e comunicação
+- Aprendizado rápido de novas tecnologias
+
+## Minhas Redes
+- GitHub: github.com/isabelydf
+- LinkedIn: https://www.linkedin.com/in/isabely-duque-fernandes-2a18a0294/
